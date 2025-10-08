@@ -10,7 +10,7 @@ Estudante de Gestão da Tecnologia da Informação
  <img align="center" alt="Enzo-html" height="40" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img align="center" alt="Enzo-html" height="40" width="105" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img align="center" alt="Enzo-html" height="40" width="105" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
- <img align="center" alt="Enzo-html" height="40" width="105" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+ <img align="center" alt="Enzo-html" height="40" width="105" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  
 
 
